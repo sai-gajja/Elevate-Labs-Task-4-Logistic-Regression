@@ -69,11 +69,3 @@ Build a **binary classification model** using **Logistic Regression** to underst
    * Explain how the model converts linear scores into probabilities.
    * Try different thresholds (e.g., 0.4, 0.6) and observe the effect on metrics.
 
----
-
-## 📈 Sample Output Plots
-
-* Confusion Matrix (annotated heatmap)
-* ROC Curve
-* Sigmoid Function Visualization
-
